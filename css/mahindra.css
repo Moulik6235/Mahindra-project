@@ -14,8 +14,8 @@ body{ font-family: 'Kanit', sans-serif !important;}
 .navigation li a {text-decoration: none; font-size: 14px; color: #fff; text-transform: uppercase;}
 .header-block .log-in{float: right; display: flex; width: auto; margin-top: 4px;}
 .log-in .fa-solid{display: none;}
-.header-block .log-in a {text-decoration: none; padding: 16px 30px; ; font-size: 20px;  }
-.log-in a:hover {color: rgb(255, 0 ,0);} 
+.header-block .log-in a {text-decoration: none; padding: 7px 40px;  font-size: 20px; background-color: red; border-radius: 5px; margin-top: 12px; color: #fff;}
+.log-in a:hover {color:#000; background-color: #ffff;} 
 .navigation a:hover {color: rgb(255, 0, 0);}
 
 .content-frame{ background-repeat: no-repeat;  background-size: cover; float: left; width: 100%;}
