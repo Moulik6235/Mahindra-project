@@ -23,6 +23,7 @@ body{ font-family: 'Kanit', sans-serif !important;}
 .title-block .comments{font-size: 45px; text-transform: uppercase; font-weight: 300;text-align: center;}
 .title-block .rise{ font-size: 25px;font-weight: 300;}
 
+
 .business-block .explore{display: flex; flex-wrap: wrap; justify-content: space-between; gap: 18px;}
 .explore .business-image{width: 33%; width: 32%;  height: 180px; position: relative; overflow: hidden;}
 .explore .business-image img{width: 100%; object-fit: cover; height: 100%; transition: .4s;}
